@@ -1,7 +1,3 @@
-Here's a sample `README.md` for your hand-tracking volume control project using Mediapipe and Pycaw. Feel free to adjust it as needed:
-
----
-
 # Hand Tracking Volume Control
 
 This project uses hand tracking to control system volume based on the distance between two specific hand landmarks (thumb and index finger). The project leverages OpenCV, Mediapipe, and Pycaw for video capture, hand landmark detection, and audio volume control, respectively.
@@ -42,7 +38,7 @@ pip install opencv-python mediapipe numpy comtypes pycaw
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/hand-tracking-volume-control.git
+git clone [https://github.com/yourusername/hand-tracking-volume-control.git](https://github.com/ChamilkaMihiraj2002/Volumn-Control-OpeanCv.git)
 cd hand-tracking-volume-control
 ```
 
