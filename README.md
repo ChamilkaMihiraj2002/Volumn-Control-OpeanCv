@@ -38,7 +38,7 @@ pip install opencv-python mediapipe numpy comtypes pycaw
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/hand-tracking-volume-control.git](https://github.com/ChamilkaMihiraj2002/Volumn-Control-OpeanCv.git)
+git clone https://github.com/yourusername/hand-tracking-volume-control.git
 cd hand-tracking-volume-control
 ```
 
